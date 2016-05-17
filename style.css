@@ -1,0 +1,66 @@
+#container{
+	clear: both;
+	float:none;
+	margin:0 auto;
+	width: 1060px;
+	height: 670px;
+}
+/*bloc droite*/
+.bloc1{display: block;
+	margin-bottom:8px;
+	background-color:#37BBD3;
+	height:90px;
+	width:1060px;
+}
+#bloc2{
+	width: 390px;
+	height: 580px;
+}
+.b10{
+	margin-bottom:8px;
+	background-color:#28B777;
+	height:430px;
+	width:390px;
+}
+.b11{
+	float: left;
+	margin-bottom:8px;
+	background-color:#FA8A7E;
+	height:210px;
+	width:190px;
+}
+.b12{
+	float: right;
+	margin-bottom:8px;
+	background-color:#B483FF;
+	height:210px;
+	width:190px;
+}
+/*Milieu*/
+#bloc3{
+	float: none;
+	width: 390px;
+	height: 580px;
+}
+.c10{
+	margin-bottom:8px;
+	background-color:#28B777;
+	height:430px;
+	width:390px;
+}
+/*
+.c11{
+	float: left;
+	margin-bottom:8px;
+	background-color:#FA8A7E;
+	height:210px;
+	width:190px;
+}
+.c12{
+	float: right;
+	margin-bottom:8px;
+	background-color:#B483FF;
+	height:210px;
+	width:190px;
+}
+*/
